@@ -1,3 +1,5 @@
+The first file is the educational material I learned from, and the second file is...
+
 # Hotel Management Admin Panel
 
 Welcome to the Hotel Management Admin Panel, an internal service tailored for hotel management purposes. This application is designed to streamline administrative tasks, enhance user experience, and provide a comprehensive toolset for efficient hotel operations.
